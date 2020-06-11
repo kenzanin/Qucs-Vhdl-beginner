@@ -1,0 +1,163 @@
+<Qucs Dataset 0.0.20>
+<indep dtime 4>
+  +0.00000000000e+00
+  +1.00000000000e-09
+  +2.00000000000e-09
+  +3.00000000000e-09
+</indep>
+<dep x1.ina.X dtime>
+  0
+  1
+  0
+  1
+</dep>
+<dep x1.inb.X dtime>
+  0
+  0
+  1
+  1
+</dep>
+<dep x1.op.X dtime>
+  0
+  1
+  1
+  1
+</dep>
+<dep x2.ina.X dtime>
+  0
+  1
+  0
+  1
+</dep>
+<dep x2.inb.X dtime>
+  0
+  0
+  1
+  1
+</dep>
+<dep x2.op.X dtime>
+  0
+  1
+  1
+  0
+</dep>
+<dep x3.ina.X dtime>
+  0
+  1
+  0
+  1
+</dep>
+<dep x3.inb.X dtime>
+  0
+  0
+  1
+  1
+</dep>
+<dep x3.op.X dtime>
+  0
+  0
+  0
+  1
+</dep>
+<dep x4.ina.X dtime>
+  0
+  1
+  0
+  1
+</dep>
+<dep x4.inb.X dtime>
+  0
+  0
+  1
+  1
+</dep>
+<dep x4.op.X dtime>
+  1
+  1
+  1
+  0
+</dep>
+<dep x5.ina.X dtime>
+  0
+  1
+  0
+  1
+</dep>
+<dep x5.inb.X dtime>
+  0
+  0
+  1
+  1
+</dep>
+<dep x5.op.X dtime>
+  1
+  0
+  0
+  1
+</dep>
+<dep x6.ina.X dtime>
+  0
+  1
+  0
+  1
+</dep>
+<dep x6.inb.X dtime>
+  0
+  0
+  1
+  1
+</dep>
+<dep x6.op.X dtime>
+  1
+  0
+  0
+  0
+</dep>
+<dep and.X dtime>
+  0
+  0
+  0
+  1
+</dep>
+<dep ina.X dtime>
+  0
+  1
+  0
+  1
+</dep>
+<dep inb.X dtime>
+  0
+  0
+  1
+  1
+</dep>
+<dep nand.X dtime>
+  1
+  1
+  1
+  0
+</dep>
+<dep nor.X dtime>
+  1
+  0
+  0
+  0
+</dep>
+<dep or.X dtime>
+  0
+  1
+  1
+  1
+</dep>
+<dep xnor.X dtime>
+  1
+  0
+  0
+  1
+</dep>
+<dep xor.X dtime>
+  0
+  1
+  1
+  0
+</dep>

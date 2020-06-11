@@ -1,0 +1,7 @@
+v 4
+file / "/home/kenzanin/tmp/vhdl/coba01/coba01_tb.vhdl" "2deb7cbba72cc5816fdcea14f543a6941b134182" "20200610054810.649":
+  entity coba01_tb at 1( 0) + 0 on 33;
+  architecture behave of coba01_tb at 4( 26) + 0 on 34;
+file / "/home/kenzanin/tmp/vhdl/coba01/coba01.vhdl" "5b03c7b231663c74ff246dc569fdc0f8f044bd73" "20200610054740.135":
+  entity coba01 at 1( 0) + 0 on 31;
+  architecture archandgate of coba01 at 10( 125) + 0 on 32;
