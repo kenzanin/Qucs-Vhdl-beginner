@@ -1,1 +1,7 @@
-/*.o
+digi.*
+*.o
+*.cc
+*.cf
+digi
+log.txt
+netlist.txt
